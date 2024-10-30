@@ -1,0 +1,17 @@
+.card1{
+  flex-basis: 250px;
+  flex-grow: 1;
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  background: orange;
+ }
+.card1 img {
+  width: 150px;
+}
+.card1 h3 {
+  flex-grow: 1;
+  padding-left: 20px;
+}
